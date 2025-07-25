@@ -1,3 +1,8 @@
+> ⚠️ **Note:** GitHub may not display the full code if the file is large.  
+> To view the complete code,Please click the **“Raw”** button or **download** the file to view it properly.
+### To view the complete notebook without any truncation, open it using **nbviewer**:
+
+👉 [Click here to view the full notebook in nbviewer](https://nbviewer.org/github/CodeWithNirmalya/Deforestation_Fire_Classification/blob/main/deforestation_project.ipynb)
 # 🌲 Deforestation Fire Classification
 
 This repository contains Week 1 work for the machine learning internship project focused on classifying deforestation-related fire occurrences using supervised learning techniques.
